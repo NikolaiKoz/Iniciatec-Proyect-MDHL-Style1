@@ -168,35 +168,35 @@ body{
 /* REGISTRATUIN FORM */
 
 .main__content__title{
-    text-align: center;
-    margin-bottom: 1em;
+    text-align          : center;
+    margin-bottom       : 1em;
 }
 
 /* INPUTS */
 
 .generalStyles{
-    border: 0;
-    border-bottom: 1px solid black;
-    width: 30%;
-    margin-bottom: 1em;
+    border              : 0;
+    border-bottom       : 1px solid black;
+    width               : 30%;
+    margin-bottom       : 1em;
 }
 
 .maxLine{
-    width: 73%;
+    width               : 73%;
 }
 
 /* SUB TITLES */
 
 .main__content__form__subTitle{
-    margin-top: 2em;
-    margin-bottom: 0.668em;
+    margin-top          : 2em;
+    margin-bottom       : 0.668em;
 }
 
 .main__content__form__containerFlex{
-    display: flex;
-    margin-top: .668em;
+    display             : flex;
+    margin-top          : .668em;
 }
 
 .main__content__form__containerFlex > div{
-    margin-right: 2em;
+    margin-right        : 2em;
 }
