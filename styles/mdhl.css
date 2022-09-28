@@ -164,3 +164,9 @@ body{
 .textStart{
     text-align          : start;
 }
+
+/* REGISTRATUIN FORM */
+
+.main__content__title{
+    text-align: center;
+}
